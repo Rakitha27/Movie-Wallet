@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Wallet</string>
+    <string name="imdb_apikey">k_id45qegr</string>
+    <string name="imdb_link">https://imdb-api.com/en/API/SearchTitle/</string>
+</resources>
